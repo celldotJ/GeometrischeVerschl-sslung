@@ -1,0 +1,17 @@
+C:\Repos\GeometrischeVerschlüsslung\GeometrischeVerschlüsslung\bin\Debug\net6.0-windows\GeometrischeVerschlüsslung.exe
+C:\Repos\GeometrischeVerschlüsslung\GeometrischeVerschlüsslung\bin\Debug\net6.0-windows\GeometrischeVerschlüsslung.deps.json
+C:\Repos\GeometrischeVerschlüsslung\GeometrischeVerschlüsslung\bin\Debug\net6.0-windows\GeometrischeVerschlüsslung.runtimeconfig.json
+C:\Repos\GeometrischeVerschlüsslung\GeometrischeVerschlüsslung\bin\Debug\net6.0-windows\GeometrischeVerschlüsslung.dll
+C:\Repos\GeometrischeVerschlüsslung\GeometrischeVerschlüsslung\bin\Debug\net6.0-windows\GeometrischeVerschlüsslung.pdb
+C:\Repos\GeometrischeVerschlüsslung\GeometrischeVerschlüsslung\obj\Debug\net6.0-windows\GeometrischeVerschlüsslung.csproj.AssemblyReference.cache
+C:\Repos\GeometrischeVerschlüsslung\GeometrischeVerschlüsslung\obj\Debug\net6.0-windows\GeometrischeVerschlüsslung.Form1.resources
+C:\Repos\GeometrischeVerschlüsslung\GeometrischeVerschlüsslung\obj\Debug\net6.0-windows\GeometrischeVerschlüsslung.csproj.GenerateResource.cache
+C:\Repos\GeometrischeVerschlüsslung\GeometrischeVerschlüsslung\obj\Debug\net6.0-windows\GeometrischeVerschlüsslung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\GeometrischeVerschlüsslung\GeometrischeVerschlüsslung\obj\Debug\net6.0-windows\GeometrischeVerschlüsslung.AssemblyInfoInputs.cache
+C:\Repos\GeometrischeVerschlüsslung\GeometrischeVerschlüsslung\obj\Debug\net6.0-windows\GeometrischeVerschlüsslung.AssemblyInfo.cs
+C:\Repos\GeometrischeVerschlüsslung\GeometrischeVerschlüsslung\obj\Debug\net6.0-windows\GeometrischeVerschlüsslung.csproj.CoreCompileInputs.cache
+C:\Repos\GeometrischeVerschlüsslung\GeometrischeVerschlüsslung\obj\Debug\net6.0-windows\GeometrischeVerschlüsslung.dll
+C:\Repos\GeometrischeVerschlüsslung\GeometrischeVerschlüsslung\obj\Debug\net6.0-windows\refint\GeometrischeVerschlüsslung.dll
+C:\Repos\GeometrischeVerschlüsslung\GeometrischeVerschlüsslung\obj\Debug\net6.0-windows\GeometrischeVerschlüsslung.pdb
+C:\Repos\GeometrischeVerschlüsslung\GeometrischeVerschlüsslung\obj\Debug\net6.0-windows\GeometrischeVerschlüsslung.genruntimeconfig.cache
+C:\Repos\GeometrischeVerschlüsslung\GeometrischeVerschlüsslung\obj\Debug\net6.0-windows\ref\GeometrischeVerschlüsslung.dll
