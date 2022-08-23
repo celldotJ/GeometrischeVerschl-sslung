@@ -93,6 +93,7 @@ namespace GeometrischeVerschlüsslung
         private static string GetEncryptedValueFromGrid(int columns, List<char[]> Grid)
         {
             string result = string.Empty;
+            Grid.Reverse();
             for (int i = columns - 1; i > -1; i--)
             {
                 Grid.ForEach(x => result += x[i].ToString());
@@ -104,16 +105,8 @@ namespace GeometrischeVerschlüsslung
         private void decryptBtn_Click(object sender, EventArgs e)
         {
             string input = inputTxtBx.Text;
-            for (int i = 0; i < 5; i++)
-            {
-                input = Encrypt(input);
-            }
-            resultTxtBx.Text = input;
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
+            string result = Encrypt(input);
+            resultTxtBx.Text = result;
         }
     }
 }
