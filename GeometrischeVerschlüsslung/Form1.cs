@@ -15,7 +15,11 @@ namespace GeometrischeVerschlüsslung
 
             resultTxtBx.Text = result;
         }
-
+        /// <summary>
+        /// Encrypts the <paramref name="input"/> using the Geometrische Verschlüsslung
+        /// </summary>
+        /// <param name="input">The value to be ecrypted.</param>
+        /// <returns>The encrypted <paramref name="input"/> </returns>
         private static string Encrypt(string input)
         {
             int columns;
